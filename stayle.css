@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-image:url(zaka.jpg);
+ 
+    background-size: cover;
+    font-size: large;
+    font-family: poppin, 'Times New Roman',Times,sarif;
+}
+.container{
+     text-align: center;
+     justify-content: center;
+      align-items: center;
+     width: 400px;
+     margin-top: 100px;
+    
+}
+table{
+
+    margin-left:-100px;
+}
